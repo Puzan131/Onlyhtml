@@ -1,0 +1,1 @@
+Hey there! I've create this only html website. It is about a photo studio company and made completely with plain html code. Since I can't use css I used table for formatting the content and html attributes for styling a bit.
